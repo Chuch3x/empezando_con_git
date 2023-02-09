@@ -9,3 +9,5 @@ Practicando el uso de GIT
     git commit -m "Mensaje"
 5. Ver mis commits
     git log
+6. Para volver a otra version 
+    git checkout CODIGO commit
