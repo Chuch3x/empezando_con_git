@@ -11,3 +11,5 @@ Practicando el uso de GIT
     git log
 6. Para volver a otra version 
     git checkout CODIGO commit
+7. Volver a la ultima version
+    git checkout master
