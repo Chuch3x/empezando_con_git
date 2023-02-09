@@ -1,0 +1,11 @@
+Practicando el uso de GIT
+1. Para iniciar un repositorio 
+    git init
+2. para ver el status
+    git status
+3. aniadir un archivo a un espacio temporal previo al envio al repositorio
+    git add .
+4. Para guardar la modificacion de forma permanente
+    git commit -m "Mensaje"
+5. Ver mis commits
+    git log
